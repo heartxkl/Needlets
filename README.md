@@ -1,6 +1,5 @@
 # Sparse Needlets for Lighting Estimation with Spherical Transport Loss (ICCV 2021)
 [Fangneng Zhan*](https://sites.google.com/view/fnzhan), Changgong Zhang*, Wenbo Hu, Shijian Lu, Feiying Ma, Xuansong Xie, Ling Shao. <br>
-In ICCV 2021.
 
 ## Dataset Preparation
 [Laval Indoor HDR Dataset](http://indoor.hdrdb.com/#intro) <br>
