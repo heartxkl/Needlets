@@ -3,7 +3,7 @@
 
 ## Dataset Preparation
 [Laval Indoor HDR Dataset](http://indoor.hdrdb.com/#intro) <br>
-Thanks to the intellectual property of the Laval Indoor dataset, the training data cannot be released here. Please contact the owner of the dataset through above link to obtain the dataset.
+Thanks to the intellectual property of the Laval Indoor dataset, the training data cannot be released here. Please contact the owner of the dataset through above link to obtain the training set.
 
 
 ### Citation
